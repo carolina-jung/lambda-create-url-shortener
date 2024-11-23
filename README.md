@@ -7,7 +7,7 @@ Função Lambda para gerar URLs encurtadas criada durante o curso **Aplicação 
 - Gera código UUID referente à URL enviada.
 
 ## 🛠 Tecnologias
-- **Java**
-- **AWS Lambda**
-- **AWS API Gateway**
-- **AWS S3**
+- Java
+- AWS Lambda
+- AWS API Gateway
+- AWS S3
